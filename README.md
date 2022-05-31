@@ -41,6 +41,11 @@ Parte 4:
 ![image](https://user-images.githubusercontent.com/68342939/170527517-374bb6bf-f93b-4422-b1e4-22e137750ac7.png)
 ![image](https://user-images.githubusercontent.com/68342939/170528200-42237743-2e53-459a-9492-57b442b1d705.png)
 
+## Ejercicio 5 ##
+![image](https://user-images.githubusercontent.com/68342939/171227537-5c196d87-d794-4c3f-922e-743349de0477.png)
+![image](https://user-images.githubusercontent.com/68342939/171227596-68a2e96a-3355-4003-986d-cbc966386424.png)
+
+
 ## Ejercicio 6 ##
 ![image](https://user-images.githubusercontent.com/68342939/170535513-f3a68996-75dc-4791-a4a5-0963cfdac389.png)
 ![image](https://user-images.githubusercontent.com/68342939/170535612-d2134829-6196-4c7d-9c05-b68866b12820.png)
@@ -55,4 +60,11 @@ Parte 4:
 ![image](https://user-images.githubusercontent.com/68342939/171223621-66ecdb46-e240-419a-b0aa-355cedb43151.png)
 ![image](https://user-images.githubusercontent.com/68342939/171223835-c04eed13-0de6-4c7c-8a47-9ab1a8904be4.png)
 ![image](https://user-images.githubusercontent.com/68342939/171223982-852a0c22-af78-471a-9822-d525b003d379.png)
+
+## Ejercicio 9
+![image](https://user-images.githubusercontent.com/68342939/171228044-2a405c0a-eea8-4c1e-85b3-129040b0044c.png)
+![image](https://user-images.githubusercontent.com/68342939/171228096-39a959ce-5aa4-4f68-988c-e26558f8cde6.png)
+![image](https://user-images.githubusercontent.com/68342939/171228157-6b4c2467-5e6b-4306-855b-d576cd86faa6.png)
+![image](https://user-images.githubusercontent.com/68342939/171228234-085fd5f6-8521-4eea-b6ad-ca2ad55e1900.png)
+![image](https://user-images.githubusercontent.com/68342939/171228489-ac8982c1-e16d-4caf-b510-d6ad72e21050.png)
 
