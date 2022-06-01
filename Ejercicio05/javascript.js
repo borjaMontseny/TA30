@@ -27,3 +27,4 @@ for (numero1; numero1 < numero2; numero1++) {
         "que numero2: " + numero2
     );
 }
+
